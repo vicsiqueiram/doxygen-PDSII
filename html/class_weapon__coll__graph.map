@@ -1,0 +1,6 @@
+<map id="Weapon" name="Weapon">
+<area shape="rect" id="node1" title="Contém todos os atributos armazenados e funções dos objetos do tipo arma do jogo." coords="13,285,139,399"/>
+<area shape="rect" id="node2" href="$class_item.html" title="Processa todos os atributos armazenados e funções dos itens do jogo." coords="21,123,131,236"/>
+<area shape="rect" id="node3" title=" " coords="5,5,64,45"/>
+<area shape="rect" id="node4" title=" " coords="97,5,137,45"/>
+</map>

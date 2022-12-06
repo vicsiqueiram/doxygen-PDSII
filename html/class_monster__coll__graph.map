@@ -1,0 +1,6 @@
+<map id="Monster" name="Monster">
+<area shape="rect" id="node1" title="Armazena e processa ações e atributos dos monstros dentro durante o jogo." coords="47,137,185,309"/>
+<area shape="rect" id="node2" title=" " coords="5,5,64,45"/>
+<area shape="rect" id="node3" title=" " coords="96,5,136,45"/>
+<area shape="rect" id="node4" title=" " coords="198,5,245,45"/>
+</map>
